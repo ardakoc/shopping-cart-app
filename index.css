@@ -37,6 +37,7 @@ button {
   border: none;
   border-radius: 8px;
   color: #fdfdfd;
+  cursor: pointer;
   font-family: 'Rubik', sans-serif;
   font-size: 20px;
   padding: 15px;
